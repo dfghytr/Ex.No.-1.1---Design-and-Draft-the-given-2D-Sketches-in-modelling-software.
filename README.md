@@ -42,6 +42,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![davidson Drawing v1_page-0001](https://github.com/dfghytr/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138970628/bd05c1f8-9658-431e-9f5d-78b493a3b7eb)
 
 
 ## RESULT
